@@ -1,0 +1,68 @@
+Name, ID
+Akshan, 04SH130
+Aphelios, 03MT217
+Jayce, 05PZ022
+Viego, 04SI055
+Forge Chief, 05PZ025
+Frightened Ibex, 04MT018
+Go Hard, 03SI016
+Stress Testing, 03PZ025
+The Flight, 03MT214
+Ceaseless Sentry, 06SI046
+Crawling Viperwyrm, 04SI021
+Ferros Financier, 05PZ024
+Gifts From Beyond, 03MT215
+Starbone, 03MT218
+The Absolver, 04SH138
+The Sky Shadows, 03MT216
+Troll Gifts, 03FR025
+Blocking Badgerbear, 06DE048
+Camavoran Soldier, 04SI054
+Generous Gemcrafter, 06MT053
+Gluttony, 03SI018
+Grappling Hook, 04SH131
+Hextech Handler, 05PZ029
+Ruined Dragonguard, 04DE020
+The Forge Of Tomorrow, 05PZ021
+Vekauran Vagabond, 04SH128
+Banana Blaster, 06BC051
+Camavoran Dragon, 04SI028
+Defective Swapbot, 04PZ020
+Despair, 04SI029
+Ferros Skycruiser, 05PZ028
+Flurry Of Fists, 03IO025
+Powder Pandemonium, 03BW020
+Ruined Reckoner, 04NX022
+The Fangs, 03MT221
+The Veiled Temple, 03MT219
+Vekauran Safecracker, 04SH125
+Winter's Touch, 06FR041
+Go Get It, 03IO022
+Mischievous Marai, 06BW047
+Out Of The Way, 03MT110
+Retired Reckoner, 04NX021
+Ruined Rex, 04BW016
+The Cloven Way, 03MT220
+Vekauran Bruiser, 04SH129
+Wild Claws, 03NX022
+Withering Mist, 04SI056
+Assembly Line, 05PZ026
+Formula, 06PZ046
+Hextech Anomaly, 05PZ030
+Kadregrin The Ruined, 04DE016
+Molten Breath, 03DE025
+Priestess Of Desert Light, 06SH055
+Rimefang Denmother, 04FR019
+Scatter Pod, 04IO020
+Shock Blast, 05PZ027
+Shulking String-Puller, 06NX044
+Albus Ferros, 05PZ031
+Invasive Hydravine, 04SI053
+Serene Sky-Singer, 06IO044
+Thrumming Swarm,  04SH137
+Give It All, 03PZ022
+Feel The Rush, 03FR022
+
+
+
+

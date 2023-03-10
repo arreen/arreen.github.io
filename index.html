@@ -11,7 +11,7 @@
 
 
 
-<title>My Website</title>
+<title>Card Winrates</title>
 
 <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -32,6 +32,13 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<script src="site_libs/core-js-2.5.3/shim.min.js"></script>
+<script src="site_libs/react-17.0.0/react.min.js"></script>
+<script src="site_libs/react-17.0.0/react-dom.min.js"></script>
+<script src="site_libs/reactwidget-1.0.0/react-tools.js"></script>
+<script src="site_libs/htmlwidgets-1.6.1/htmlwidgets.js"></script>
+<link href="site_libs/reactable-0.4.3/reactable.css" rel="stylesheet" />
+<script src="site_libs/reactable-binding-0.4.3/reactable.js"></script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -238,18 +245,12 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">My Website</a>
+      <a class="navbar-brand" href="index.html">Runeterran Stats</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="Testaraha.html">TESTARAHAHAH</a>
-</li>
-<li>
-  <a href="index.html">Hodme</a>
-</li>
-<li>
-  <a href="about.html">About</a>
+  <a href="index.html">Card Winrates</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -263,25 +264,16 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">My Website</h1>
+<h1 class="title toc-ignore">Card Winrates</h1>
 
 </div>
 
 
-<p>Hello, Website!</p>
-<p>For more information about simple R Markdown websites, please read
-the documentation at <a
-href="https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html"
-class="uri">https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html</a>.</p>
-<p>Please also note that simple R Markdown sites are <em>not</em> based
-on <strong>blogdown</strong>. They are probably good for websites with
-only a few Rmd documents. For larger-scale and more sophisticated
-websites (such as blogs), you may want to use <strong>blogdown</strong>
-instead: <a href="https://github.com/rstudio/blogdown"
-class="uri">https://github.com/rstudio/blogdown</a>.</p>
-
-<address> Footer är det längst ned på sidan?</address>'
-
+<p>Click on a card to see card specific statistics.<br />
+The table shows card winrates with 1, 2 or 3 copies of the given card in
+deck.</p>
+<div class="reactable html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-da2b3d2492b1277a03a6" style="width:auto;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-da2b3d2492b1277a03a6">{"x":{"tag":{"name":"Reactable","attribs":{"data":{"Card":["Mystic Shot","Formula","Piltovan Tellstones","Hexbliterator","Thermogenic Beam","Sharpsight","Ferros Financier","Jayce","Albus Ferros","Forge Chief","Shock Blast","Blocking Badgerbear","Pokey Stick","Single Combat","Conchologist","Assembly Line","Lux","Mageseeker Persuader","Vengeance","Vile Feast","Quietus","Drum Solo","Time Trick","Norra","Portalpalooza","Puzzling Signposts","Remembrance","Hate Spike","Aloof Travelers","Concerted Strike","Wallop","Champions' Strength","Trinket Trade","Ranger's Resolve","Heimerdinger"],"Games":[88,72,69,65,63,60,57,56,55,55,54,50,44,43,41,41,41,40,34,34,29,28,28,27,27,26,26,25,25,25,22,21,21,21,21],"Winrate":["56.8 %","52.8 %","49.3 %","61.5 %","55.6 %","60 %","56.1 %","55.4 %","54.5 %","56.4 %","57.4 %","56 %","50 %","58.1 %","51.2 %","63.4 %","63.4 %","65 %","32.4 %","32.4 %","31 %","46.4 %","46.4 %","51.9 %","51.9 %","50 %","76.9 %","52 %","60 %","52 %","40.9 %","52.4 %","47.6 %","52.4 %","33.3 %"]},"columns":[{"id":"Card","name":"Card","type":"character","html":true,"align":"left"},{"id":"Games","name":"Games","type":"numeric","html":true,"align":"center"},{"id":"Winrate","name":"Winrate","type":"character","html":true,"align":"center"}],"searchable":true,"pageSizeOptions":[15],"showPageInfo":false,"onClick":"function linker(rowInfo){\n  let url = window.location.href\n  window.location.assign(url.substring(0, url.length - 11) + \"/\" + rowInfo.values.Card.replace(\" \", \"_\") + \".html\");\n  \n}","highlight":true,"dataKey":"6ba9b3c33297c8e36346b2e517874fd5"},"children":[]},"class":"reactR_markup"},"evals":["tag.attribs.onClick"],"jsHooks":[]}</script>
 
 
 
