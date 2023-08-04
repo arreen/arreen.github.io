@@ -1,36 +1,819 @@
 "","Name","Total_Games","Total_WR","Average Copies"
-"1315","Mystic Shot",88,0.568,2.6
-"96","Formula",72,0.528,2.6
-"239","Piltovan Tellstones",69,0.493,1.2
-"87","Hexbliterator",65,0.615,1.8
-"1323","Thermogenic Beam",63,0.556,1
-"991","Sharpsight",60,0.6,2.1
-"508","Ferros Financier",57,0.561,2.8
-"506","Jayce",56,0.554,2.9
-"504","Albus Ferros",55,0.545,2.7
-"516","Forge Chief",55,0.564,2.9
-"505","Shock Blast",54,0.574,2.7
-"152","Blocking Badgerbear",50,0.56,2.4
-"401","Pokey Stick",44,0.5,2.9
-"1271","Single Combat",43,0.581,2
-"383","Conchologist",41,0.512,3
-"501","Assembly Line",41,0.634,2.9
-"1238","Lux",41,0.634,3
-"1265","Mageseeker Persuader",40,0.65,2.7
-"1430","Vengeance",34,0.324,2.8
-"1451","Vile Feast",34,0.324,2.9
-"178","Quietus",29,0.31,2.4
-"101","Drum Solo",28,0.464,1.8
-"572","Time Trick",28,0.464,1.7
-"49","Norra",27,0.519,3
-"57","Portalpalooza",27,0.519,3
-"52","Puzzling Signposts",26,0.5,1.4
-"1256","Remembrance",26,0.769,1
-"293","Hate Spike",25,0.52,2.6
-"387","Aloof Travelers",25,0.6,2.6
-"1107","Concerted Strike",25,0.52,2
-"408","Wallop",22,0.409,1
-"156","Champions' Strength",21,0.524,2
-"407","Trinket Trade",21,0.476,2
-"1106","Ranger's Resolve",21,0.524,2
-"1291","Heimerdinger",21,0.333,3
+"1315","Mystic Shot",15603,0.513,2.8
+"1430","Vengeance",13995,0.52,2.7
+"1501","Soul Harvest",13040,0.527,2.5
+"178","Quietus",12485,0.529,2.2
+"144","Forsaken Baccai",12346,0.517,2.9
+"1455","Augmented Clockling",9332,0.507,2.5
+"681","Rite of Negation",9331,0.517,1.7
+"1508","Pie Toss",8467,0.52,2.6
+"293","Hate Spike",8310,0.52,2.7
+"642","Quicksand",8266,0.514,1.6
+"1460","Pirouette",8027,0.519,2.7
+"948","Aftershock",7581,0.515,1.8
+"96","Formula",7471,0.51,2.4
+"187","Ceaseless Sentry",7369,0.519,2.8
+"1511","Form Up!",6948,0.504,2.4
+"516","Forge Chief",6902,0.532,2.4
+"1447","The Rekindler",6484,0.533,2.7
+"1509","Condense",6299,0.509,2.8
+"246","Eye of Nagakabouros",6060,0.532,2.7
+"140","Rockbear Shepherd",6013,0.526,3
+"1530","Avenging Vastaya",5954,0.503,2.4
+"408","Wallop",5900,0.517,1.7
+"716","Three Sisters",5629,0.503,1.9
+"560","Petricite Broadwing",5624,0.517,2.9
+"662","Nasus",5592,0.528,2.9
+"152","Blocking Badgerbear",5308,0.507,2.6
+"328","Veigar",5189,0.531,2.7
+"508","Ferros Financier",5057,0.532,2.7
+"535","Dess & Ada",5025,0.534,1.8
+"1461","Samira",4997,0.512,2.9
+"109","Parts Made Whole",4983,0.537,2.1
+"1290","Teemo",4946,0.501,3
+"60","Junk Construct",4928,0.506,2.9
+"824","Vaults of Helia",4903,0.545,3
+"1291","Heimerdinger",4863,0.537,3
+"1350","Harsh Winds",4826,0.486,2.1
+"1401","Glimpse Beyond",4779,0.472,2.4
+"572","Time Trick",4776,0.479,2.3
+"383","Conchologist",4761,0.524,2.8
+"506","Jayce",4672,0.537,3
+"108","Heavy Metal",4657,0.514,2.5
+"657","Rampaging Baccai",4627,0.549,1.9
+"145","Castigate",4619,0.526,1.3
+"1282","Fleetfeather Tracker",4597,0.526,2.6
+"162","Fish Fight",4588,0.539,2.9
+"533","Piercing Darkness",4564,0.533,1.2
+"57","Portalpalooza",4524,0.515,2.9
+"87","Hexbliterator",4521,0.509,1.2
+"505","Shock Blast",4500,0.535,1.3
+"49","Norra",4432,0.509,2.7
+"1310","Zaunite Urchin",4429,0.527,2.8
+"149","The Darkin Bloodletters",4417,0.526,2.2
+"1271","Single Combat",4393,0.483,2
+"1457","Blowback",4373,0.536,2.6
+"1516","Epic Scraptraption",4330,0.53,2.5
+"30","The Darkin Spear",4302,0.521,2.2
+"564","Production Surge",4270,0.533,2.7
+"525","Hextech Handler",4269,0.535,3
+"153","Catch!",4253,0.536,2
+"496","Marai Warden",4225,0.532,2.6
+"135","The Darkin Lodestone",4106,0.517,1.6
+"1034","Riptide Rex",4077,0.533,2.1
+"1301","Jury-Rig",4076,0.522,2.5
+"413","Squeaker",4047,0.538,3
+"1094","Noxian Fervor",4043,0.525,1.9
+"1289","Jinx",4025,0.537,3
+"1551","Return-o Wrench",4024,0.539,3
+"318","Electro Harpoon",3988,0.541,2.9
+"264","Targonian Tellstones",3963,0.467,1.8
+"320","Gnar",3959,0.522,2.4
+"575","Adaptatron 3000",3944,0.536,2.2
+"932","Pale Cascade",3944,0.458,2.4
+"1101","Quinn",3848,0.531,1.9
+"1515","Sump Monument",3842,0.492,2.5
+"390","Yordle Squire",3819,0.539,2.9
+"1061","Parrrley",3802,0.527,1.8
+"157","The Darkin Aegis",3728,0.514,1.7
+"1464","All Out",3719,0.508,2.7
+"1053","Fizz",3682,0.532,3
+"1172","Deny",3659,0.454,2
+"571","Boom Baboon",3600,0.537,2.8
+"189","Lord Broadmane",3597,0.54,2.5
+"765","Solari Sunhawk",3518,0.512,2.1
+"1075","Warning Shot",3481,0.507,2.8
+"253","Watchful Idol",3450,0.54,2.9
+"198","Disintegrate",3445,0.525,2.1
+"1545","Glacial Saurian",3434,0.515,2.6
+"1074","Make it Rain",3431,0.526,2.3
+"171","Ranger-Knight Defector",3426,0.534,2.8
+"16","Aatrox",3344,0.535,2.3
+"172","Combat Cook",3330,0.518,2.5
+"91","The Darkin Harp",3326,0.536,2.6
+"243","Illaoi",3322,0.542,3
+"309","Kennen",3314,0.518,2.9
+"92","High Note",3287,0.485,1.9
+"1452","The Ruination",3285,0.519,1.3
+"1321","Rummage",3265,0.512,1.2
+"1349","Omen Hawk",3233,0.492,2.8
+"828","Scorched Earth",3215,0.535,1.6
+"250","Tentacle Smash",3213,0.54,2.8
+"504","Albus Ferros",3209,0.537,1.2
+"1493","Father Fury",3199,0.511,3
+"892","Sunburst",3191,0.458,2.1
+"1492","Barbed Chain",3185,0.51,2.9
+"158","Vayne",3177,0.519,2.9
+"206","Jhin",3143,0.536,3
+"220","Drop the Bomb",3142,0.524,2.7
+"156","Champions' Strength",3091,0.514,2.8
+"1089","Swain",3076,0.536,3
+"239","Piltovan Tellstones",3063,0.492,1.3
+"1088","The Leviathan",3041,0.538,2.9
+"1458","Stylish Shot",3031,0.514,2.9
+"1296","Puffcap Peddler",3022,0.481,3
+"251","The Sea's Voice",3003,0.545,3
+"377","Group Shot",2998,0.542,2.2
+"512","Corina, Mastermind",2996,0.481,2.9
+"1340","Chump Whump",2995,0.484,2.9
+"255","Swindle",2940,0.517,2.7
+"1499","Innovative Blacksmith",2934,0.528,2.9
+"1531","All-Terrain Trooper",2891,0.481,2.7
+"222","Byrd, The Bellringer",2845,0.493,2.7
+"248","Riptide Sermon",2835,0.546,1.7
+"1504","Cosmic Youngling",2778,0.423,2.7
+"1336","Clump of Whumps",2690,0.485,2.9
+"493","Fleet Admiral Shelly",2657,0.53,2.9
+"1016","Shellshocker ",2652,0.532,2.9
+"776","Cataclysm",2627,0.482,2.1
+"905","Guiding Touch",2618,0.45,2
+"170","Steadfast Elkin",2613,0.534,2.9
+"429","Lightning Rush",2603,0.536,1.5
+"817","Wiggly Burblefish",2597,0.529,3
+"666","Aspiring Chronomancer",2586,0.497,2.5
+"131","The Expanse's Protection",2553,0.514,2.2
+"100","Caustic Riff",2552,0.481,1.6
+"355","Poison Dart",2544,0.482,2.4
+"703","Buried in Ice",2536,0.504,1.8
+"1125","Concussive Palm",2491,0.446,2.5
+"79","Momentous Choice",2475,0.497,2.9
+"1104","Blinding Assault",2448,0.537,1.9
+"1385","Elixir of Iron",2443,0.517,2.4
+"1475","Place Your Bets",2425,0.452,2.7
+"1033","Jagged Butcher",2331,0.516,2.4
+"1027","Coral Creatures",2294,0.523,2.7
+"619","Ancient Preparations",2242,0.481,2.7
+"1552","Portal Scholar",2212,0.52,2.4
+"580","Pyke",2173,0.505,3
+"585","Snapjaw Swarm",2170,0.506,3
+"249","Blood in the Water",2163,0.504,2.5
+"695","Ruthless Predator",2159,0.498,1.6
+"584","Sharkling",2149,0.507,3
+"103","Acorn, the Hextechnician",2147,0.49,2.4
+"579","Redfin Hammersnout",2145,0.508,3
+"107","Piltovan Castaway",2088,0.513,2.6
+"33","The Unforgiving Cold",2076,0.529,1.9
+"1468","Tag Out!",2062,0.47,2.7
+"693","Xer'sai Hatchling",2059,0.518,3
+"174","Soul Cleave",2053,0.468,1.7
+"9","Furious Wielder",2050,0.514,2.7
+"52","Puzzling Signposts",2034,0.513,1.2
+"1274","Vanguard Sergeant",2027,0.521,2.1
+"1529","Nidalee",2020,0.488,2.9
+"636","Xer'sai Caller",1993,0.518,3
+"617","Call the Pack",1987,0.52,3
+"612","Rek'Sai",1984,0.52,3
+"652","Xerxa'Reth, The Undertitan",1980,0.52,2.9
+"1471","Sett",1973,0.459,2.9
+"388","Ava Achiever",1955,0.486,1.7
+"1459","Elegant Edge",1896,0.487,2.5
+"265","Esmus, Breath of the World",1866,0.446,2.9
+"1497","Inferna",1850,0.486,2
+"159","Condemn",1838,0.521,1
+"12","Jax",1812,0.552,3
+"137","Lunari Cultist",1805,0.511,2.3
+"517","Caitlyn",1764,0.471,2.5
+"667","Xer'sai Dunebreaker",1746,0.517,2.9
+"1498","Frostcoat Cub",1739,0.497,2.5
+"1357","Ashe",1718,0.476,3
+"1474","Smooth Mixologist",1717,0.465,2.7
+"555","Durand Sculptor",1712,0.526,2.9
+"1284","Chain Vest",1699,0.515,1.2
+"1554","Scrutinizing Sergeant",1696,0.53,1.9
+"1052","Miss Fortune",1691,0.525,3
+"236","Sputtering Songspinner",1681,0.484,1.2
+"38","Warden of the Tribes",1663,0.513,2.6
+"1375","Icevale Archer",1661,0.482,2.5
+"1525","All-Seeing Oracle",1654,0.437,2
+"285","Inspiring Light",1652,0.532,2.5
+"1191","Legion Saboteur",1644,0.498,2.9
+"1366","Brittle Steel",1627,0.485,2.6
+"1488","Pocket Picker",1610,0.438,2.5
+"317","Yuumi",1604,0.451,2.5
+"629","Azir",1598,0.48,1.7
+"89","Seraphine",1592,0.47,2.9
+"1077","Island Navigator",1591,0.535,3
+"384","Minimorph",1576,0.462,1.7
+"1135","Karma",1557,0.484,2.8
+"1541","Siren Song",1556,0.492,2.9
+"1313","Daring Poro",1546,0.462,2.6
+"1505","Falling Star",1543,0.441,2
+"104","The Violent Dischord",1531,0.532,2.1
+"130","Divine Clerk",1512,0.462,2.9
+"1528","Prowl",1505,0.503,2.6
+"278","Glory's Call",1501,0.504,2.6
+"1537","Big Game Tycoon",1498,0.477,2.2
+"80","Entrancing Lure",1497,0.534,2.4
+"735","Viego",1450,0.438,2.9
+"256","Buhru Lookout",1449,0.54,1.2
+"444","Tusk Speaker",1449,0.509,2.9
+"638","Scrying Sands",1436,0.463,2.4
+"1105","Genevieve Elmheart",1428,0.532,1.5
+"354","Scrapheap",1408,0.53,2.1
+"81","Shadowblade Fanatic",1407,0.52,2.1
+"129","Wandering Shepherd",1400,0.501,2.6
+"1438","Mist's Call",1400,0.467,2
+"744","Camavoran Soldier",1395,0.43,3
+"90","Back Alley Bar",1369,0.477,2.6
+"929","Starshaping",1317,0.456,1.6
+"125","Purifying Flames",1311,0.464,2.8
+"191","Annie",1306,0.497,3
+"31","Ornn",1288,0.544,2.9
+"1539","Deck Hunter",1284,0.472,2.9
+"1485","Jack",1276,0.367,2.8
+"295","Shadow Isles Tellstones",1275,0.493,1.4
+"304","Boisterous Host",1271,0.426,2.9
+"614","Desert Naturalist",1269,0.536,1.7
+"34","Favored Artisan",1263,0.536,2.9
+"292","Gwen",1251,0.426,3
+"1521","Neeko",1242,0.469,2.9
+"365","Puffcap Pup",1240,0.457,2.2
+"633","Renekton",1239,0.446,2.7
+"407","Trinket Trade",1235,0.493,2
+"29","Weaponsmith's Apprentice",1232,0.545,3
+"234","The Stagehand",1232,0.526,2.5
+"128","Xolaani the Bloodweaver",1219,0.5,2.4
+"180","Opulent Foyer",1217,0.421,2.7
+"753","Invasive Hydravine",1217,0.441,2.7
+"19","Varus",1212,0.531,2.9
+"136","Celestial Blessing",1209,0.483,2.7
+"511","Advanced Intel",1202,0.449,1.6
+"6","Crimson Pigeon",1195,0.517,2.9
+"1218","Precious Pet",1185,0.476,2.6
+"1355","Lonely Poro",1176,0.439,2.4
+"5","The Darkin Ballista",1171,0.511,2.3
+"528","Senna",1171,0.479,2.9
+"210","Frozen in Fear",1159,0.479,2.8
+"507","Sump Fumes",1156,0.492,1
+"219","Bandle Tellstones",1146,0.532,1.4
+"110","The Unending Wave",1143,0.518,1.8
+"779","Jarvan IV",1143,0.45,2.7
+"879","Hush",1129,0.466,1.4
+"3","Ionian Hookmaster",1122,0.496,2.3
+"1514","Anura & Froop",1117,0.482,2.9
+"183","Keeper of the Box",1114,0.522,2.6
+"98","Ambitious Cultist",1110,0.504,1.8
+"714","Rimefang Denmother",1109,0.474,2.8
+"1177","Spirit's Refuge",1109,0.439,2.4
+"639","Rock Hopper",1104,0.441,2.3
+"1394","Flash Freeze",1104,0.456,1.6
+"186","Redeemed Prodigy",1097,0.424,2.8
+"1535","Towering Pairofant",1093,0.503,2.6
+"124","Winged Messenger",1086,0.502,2.7
+"1022","Crackshot Corsair",1082,0.479,2.9
+"1292","Augmented Experimenter",1082,0.513,1.9
+"1230","Elixir of Wrath",1079,0.496,1.8
+"305","Phantom Butler",1075,0.416,2.9
+"907","Lunari Shadestalker",1066,0.507,2.9
+"101","Drum Solo",1065,0.451,1.4
+"665","Golden Ambassador",1063,0.418,2.8
+"861","Lunari Duskbringer",1057,0.518,2.2
+"976","Nopeify!",1049,0.453,1.5
+"463","Desert Duel",1047,0.487,2.1
+"221","Cosmic Binding",1034,0.484,1.8
+"887","Aurelion Sol",1026,0.375,2.4
+"1361","Avalanche",1016,0.432,2.6
+"589","Bloodbait",1015,0.513,1.5
+"1316","Purrsuit of Perfection",1009,0.5,1.1
+"1477","Pit Professional",1006,0.469,2.2
+"70","The Darkin Fan",1005,0.477,1.5
+"146","Heedless Resurrection",1002,0.49,1.3
+"532","Ixtali Sentinel",979,0.485,2.8
+"151","Swinging Glaive",974,0.472,2.6
+"399","Chief Nakotak",973,0.501,2.9
+"588","Reaver's Row",973,0.529,3
+"308","Sultur",953,0.478,2.9
+"366","Twisted Catalyzer",949,0.488,3
+"1418","The Harrowing",946,0.497,2.2
+"142","Curse of the Tomb",945,0.504,2
+"1190","Transfusion",944,0.488,2.1
+"1495","Barknuckles",940,0.331,2.7
+"284","Domination",939,0.479,2.9
+"201","Manasoul Student",937,0.495,2.7
+"671","Siphoning Strike",936,0.426,1.9
+"1337","Flame Chompers!",936,0.545,2.8
+"541","Celestial Wonder",935,0.468,1.4
+"1532","Aurora Hallunatis",933,0.501,2.2
+"1046","Hired Gun",929,0.494,1.2
+"1093","Imperial Demolitionist",929,0.507,2.8
+"982","Screeching Dragon",926,0.415,2.5
+"202","Noxian Tellstones",905,0.486,1.1
+"74","Vastayan Disciple",896,0.463,2.2
+"1491","Risky Venture",894,0.364,2.3
+"61","Curious Changelings",893,0.507,2.8
+"1519","Bonehide Tri-tail",883,0.481,2.6
+"925","Solari Soldier",882,0.49,2.8
+"204","Evelynn",872,0.483,3
+"393","Otterpus",872,0.502,1.9
+"37","Pouty Poro",869,0.407,2.4
+"173","Faithful Wolfdog",868,0.485,2.2
+"1490","Angel",867,0.356,2.7
+"513","Insider Knowledge",862,0.43,2.6
+"1524","Rejuvenating Breeze",857,0.439,2.1
+"111","Buhru Cultist",855,0.509,2.7
+"306","Undergrowth",854,0.499,2.4
+"434","Grandfather Fae",853,0.523,2.2
+"1243","Garen",851,0.423,2.7
+"1045","Pool Shark",845,0.516,2.5
+"425","Darkbulb Acolyte",841,0.496,2.7
+"650","Merciless Hunter",841,0.439,2.4
+"631","Akshan",836,0.451,2.9
+"53","The Tea Maker",834,0.44,2.5
+"259","Steem",833,0.485,2.7
+"338","Arena Promoter",819,0.553,2.7
+"36","Wild Mysticism",807,0.454,2.9
+"1306","Sump Dredger",794,0.55,2.2
+"756","Camavoran Dragon",787,0.551,1.7
+"540","Shield Vault",786,0.505,1.2
+"1149","Shen",786,0.463,3
+"1148","Shadow Assassin",783,0.368,2.4
+"1126","Retreat",782,0.413,1.9
+"726","LeBlanc",780,0.485,3
+"41","Winter's Touch",778,0.445,2.8
+"721","Bloody Business",778,0.494,2.6
+"14","Kayn",773,0.506,2.7
+"1279","Brightsteel Protector",772,0.462,2.6
+"132","Celestial Impact",769,0.471,1.4
+"276","Shuriman Tellstones",765,0.503,1.5
+"1546","Necrotic Arachnoid",763,0.533,1.9
+"235","Kinkou Student",761,0.469,3
+"1175","Greenglade Caretaker",756,0.472,2.9
+"1221","Trifarian Assessor",756,0.495,2.7
+"83","Unworthy Soul",749,0.495,1.8
+"509","Piltover Peacemaker",749,0.437,1.4
+"910","Eclipse Dragon",748,0.384,2.4
+"69","Wuju Style",730,0.473,2
+"432","Stilted Robemaker",729,0.499,2.7
+"1224","Trifarian Gloryseeker",729,0.488,2.8
+"175","The Darkin Halberd",721,0.42,1.5
+"542","Pantheon",720,0.457,2.9
+"227","Moral Support",714,0.462,2.6
+"754","Fading Icon",707,0.453,2.3
+"40","Here to Help",705,0.489,2.3
+"890","Moonlight Affliction",705,0.525,2.4
+"205","Bard",700,0.387,2.9
+"603","Sacred Protector",697,0.466,1.9
+"1267","Riposte",693,0.483,1.2
+"1249","Judgment",691,0.47,1.3
+"215","Revna, the Lorekeeper",685,0.4,2.5
+"51","Sharesies",683,0.568,1.4
+"723","Incisive Tactician",666,0.488,2
+"127","Kayle",664,0.408,2.6
+"688","Feral Prescience",662,0.509,2.7
+"706","Lissandra",662,0.464,2.9
+"1086","Ruthless Raider",662,0.48,2.7
+"122","Mihira, Aspect of Justice",649,0.391,2.4
+"1378","Poro Snax",642,0.385,3
+"1390","Rimetusk Shaman",641,0.424,2.1
+"1520","The Poro King",641,0.384,3
+"611","Voice of the Risen",640,0.503,2.8
+"832","Crumble",638,0.439,2.2
+"1369","Avarosan Hearthguard ",633,0.461,2.3
+"319","Grumbleslug",632,0.459,2.7
+"48","Icevale Cultist",628,0.548,1.7
+"77","The Witness",626,0.511,2
+"543","Iula",626,0.478,2.4
+"641","Vekauran Vagabond",616,0.471,2.3
+"562","Ekko",614,0.498,3
+"1473","Attentive Accountant",614,0.399,2.5
+"54","Poro Stories",610,0.372,2.8
+"670","Buried Sun Disc",604,0.404,1
+"1555","Crested Lionhawk",603,0.454,1.9
+"299","Vora",601,0.486,2.3
+"626","Taliyah",600,0.478,3
+"1379","Battle Fury",600,0.513,1.7
+"576","Dropboarder",595,0.497,3
+"659","Exhaust",595,0.459,2.3
+"1489","Five-Punch Pablo",593,0.42,2.1
+"1518","Ravenborn Tome",591,0.46,2.6
+"1456","Flashbomb Peddler",588,0.384,2.4
+"1110","Maokai",587,0.489,2.9
+"597","Dancing Droplet",586,0.362,3
+"64","Eclectic Collection",584,0.413,1.7
+"549","Saga Seeker",583,0.48,2.8
+"294","Eternal Dancers",581,0.415,2.3
+"685","Soothsayer",580,0.452,1.9
+"155","Silence and Suppress",579,0.458,1.5
+"1217","Might",575,0.443,2.1
+"47","Bone Club",570,0.491,1.9
+"452","Sai'nen Thousand-Tailed",567,0.369,1.9
+"1370","Poro Herder",567,0.383,2.7
+"1227","Affectionate Poro",562,0.391,2.1
+"1392","Mighty Poro",559,0.47,2.2
+"138","Buried Armory",550,0.485,2.1
+"713","Fabled Poro",549,0.381,2.4
+"417","Bandle City Mayor",546,0.546,2.8
+"1087","Aurora Porealis",546,0.399,2.3
+"1550","Star-Crossed Lovers",545,0.306,2.9
+"1419","The Undying",543,0.429,2.6
+"1503","Grave Companion",543,0.442,2.3
+"345","Bandle Commando",539,0.486,2.7
+"1236","Lucian",536,0.459,2.7
+"1486","Nukkle",533,0.351,1.7
+"1109","Deadbloom Wanderer",532,0.489,2.9
+"872","Moondreamer",520,0.488,1.6
+"1247","Relentless Pursuit",520,0.454,1.8
+"740","Sea Scarab",517,0.493,3
+"1549","Age of Dragons",513,0.357,2.6
+"1198","Whirling Death",508,0.488,2.2
+"214","Wildclaw's Ferocity",498,0.53,1.6
+"165","Bloodcursed Harpy",497,0.557,1.5
+"1057","Double Trouble",496,0.49,2.8
+"1259","Silverwing Vanguard",495,0.436,2.5
+"10","Rune Squire",492,0.453,2.5
+"1186","Darius",486,0.455,2.2
+"197","Ravenbloom Conservatory",485,0.466,2.4
+"545","Blinded Mystic",482,0.465,1.8
+"1506","Sacrificial Scholar",479,0.466,2.4
+"1070","Salvage",474,0.485,2
+"1425","Black Spear",470,0.411,2.1
+"1136","Recall",467,0.349,2.8
+"1280","Cithria of Cloudfield",467,0.441,2.8
+"1037","Dreg Dredgers",466,0.496,3
+"1055","Nautilus",465,0.497,3
+"519","Sting Officer",461,0.41,2.4
+"674","Time in a Bottle",457,0.47,2.8
+"1021","Devourer of the Depths",452,0.489,2.9
+"1140","Navori Conspirator",447,0.351,2.8
+"682","Clockwork Curator",444,0.491,2.8
+"1502","Eradication",444,0.421,1.7
+"1007","Veteran Investigator",439,0.442,2.6
+"601","Syncopation",435,0.414,1.7
+"935","Patched Porobot",435,0.409,2.3
+"277","Sands of Time",431,0.497,2.6
+"985","Shyvana",428,0.367,2.8
+"195","Spell Slinger",426,0.495,1.7
+"1047","Jaull Hunters",426,0.495,2.5
+"702","Draklorn Inquisitor",424,0.483,2.3
+"449","Ahri",422,0.339,2.9
+"68","Serene Sky-Singer",421,0.428,2.4
+"819","Powder Pandemonium",420,0.471,2.3
+"1068","Lure of the Depths",420,0.505,2.8
+"213","Harbinger of Thralls",418,0.483,2.9
+"1494","Prize Fight",418,0.419,2.4
+"1380","Warmother's Call",417,0.441,2.6
+"1254","Plucky Poro",414,0.372,1.5
+"279","Chamber of Renewal",413,0.455,2.4
+"1076","Jettison",413,0.501,2.6
+"736","Spirit Leech ",412,0.444,1.8
+"742","The Wings and The Wave",407,0.408,2.3
+"1199","Reckoning",406,0.488,1.5
+"1097","Iron Ballista",404,0.495,2.9
+"708","Frozen Thrall",402,0.495,2.7
+"1100","Greenfang Warden",402,0.435,1.6
+"1466","Daring Demolisher",401,0.387,2.7
+"1410","Kalista",400,0.408,2.7
+"1442","Chronicler of Ruin",400,0.392,2.5
+"200","Captive Greyback",399,0.486,2.6
+"782","King Jarvan III",397,0.476,1.3
+"972","Tasty Faefolk",397,0.421,2
+"1035","Abyssal Eye",395,0.504,2.1
+"1451","Vile Feast",395,0.481,2.7
+"893","Solari Priestess",391,0.437,2.1
+"902","Fused Firebrand",390,0.331,2.5
+"245","Megatusk",387,0.494,2.3
+"75","Master Yi",386,0.394,2.9
+"923","Dragon's Clutch",386,0.363,2
+"866","The Infinite Mindsplitter",385,0.361,2.7
+"692","Grappling Hook",384,0.432,2.3
+"538","Camphor, the Doubt",382,0.458,1.7
+"42","Bellows Breath",380,0.492,1.7
+"59","Blooming Cultist",378,0.505,1.7
+"1078","Wolfrider",377,0.507,2.4
+"515","The Forge Of Tomorrow",374,0.54,1.9
+"1163","Will of Ionia",371,0.439,1.5
+"267","Mystic Vortex",370,0.335,2.4
+"1137","Zed",368,0.367,2.7
+"163","Trusty Ramhound",367,0.425,2.8
+"314","Tristana",361,0.557,3
+"539","Wounded Whiteflame",361,0.374,2.4
+"1527","Facecheck",360,0.489,1.4
+"332","Tenor of Terror",355,0.532,2
+"1229","Reckless Trifarian",347,0.478,2.7
+"658","Destined Poro",343,0.362,1.4
+"78","Mistfall",338,0.364,2
+"1083","Shared Spoils",337,0.427,2.1
+"1547","Tufted Webspinner",337,0.484,2.5
+"453","God-Willow Seedling",336,0.369,2.1
+"888","Bastion",335,0.418,1.6
+"1487","Perfidious Promoter",335,0.358,2.1
+"351","Bandle Gunners",334,0.551,2.9
+"551","Galio",332,0.413,2.6
+"1024","Shipwreck Hoarder",332,0.47,1.4
+"438","Udyr",331,0.444,2.7
+"1112","Terror of the Tides",331,0.598,1.1
+"1188","Decisive Maneuver",330,0.512,2
+"486","Grave Physician",328,0.503,2.5
+"875","Herald of Dragons",326,0.331,2.7
+"1510","Search Warrant",326,0.469,1.8
+"790","Riven",324,0.438,2.6
+"224","Maduli, The Gatekeeper",323,0.328,2.6
+"501","Assembly Line",323,0.508,1.9
+"811","Monkey Business",323,0.502,2.3
+"769","Destiny's Call",321,0.358,2.7
+"88","Encore",319,0.429,1.2
+"1526","Pakaa Cub",318,0.415,2.4
+"114","Mischievous Marai",313,0.479,2.8
+"1250","Laurent Duelist",310,0.387,2.4
+"447","Vulpine Wanderer",309,0.414,2.6
+"1080","Sejuani",307,0.436,2.5
+"683","Ancient Hourglass",304,0.447,1.8
+"803","Blade Squire",304,0.395,2.6
+"582","Line 'Em Up",302,0.464,1.2
+"458","Nine Lives",298,0.322,1.4
+"1548","Sacred Shears",297,0.38,1.7
+"1241","Battlesmith",296,0.449,2.9
+"1266","Vanguard Squire",296,0.446,2.9
+"500","Station Archivist",295,0.349,2.1
+"552","Shield of Durand",295,0.468,1.9
+"379","Proto Poro",294,0.371,1.4
+"474","Reborn Grenadier",294,0.524,2.9
+"368","Yordle Captain",290,0.528,1.9
+"371","Buster Shot",288,0.604,2.5
+"1166","Greenglade Duo",288,0.396,2.9
+"223","Proximity Puffcap",287,0.449,2.1
+"490","Ebb",284,0.405,1.1
+"661","Ascended's Rise",282,0.387,2.1
+"410","Bilgerat Rascal",281,0.53,1.9
+"984","Strafing Strike",276,0.344,2.3
+"916","Whiteflame Protector",275,0.309,1.9
+"1356","Shatter",275,0.469,2
+"565","Timewinder",274,0.42,1.1
+"785","Swiftwing Flight",274,0.445,1.9
+"1211","Vision",274,0.544,2.9
+"443","Inner Beast",270,0.411,2.2
+"1496","The King's Court",270,0.396,1.8
+"1417","Commander Ledros",268,0.485,1.2
+"1553","Ferocious Fluffs",267,0.449,1.6
+"989","Kadregrin the Infernal",263,0.335,1.8
+"867","Diana",262,0.454,2.7
+"237","Evil Imperfectionist",261,0.28,2.3
+"274","Baccai Witherclaw",261,0.41,2.7
+"1362","Yeti Yearling",257,0.459,1.8
+"550","Gorlith the Unscalable",255,0.404,1.8
+"780","Cithria, Lady of Clouds",252,0.425,2.1
+"1029","Citrus Courier",248,0.375,1.3
+"1242","Tianna Crownguard",248,0.411,1.7
+"182","Fireth, Reaper of the Sands",247,0.417,2
+"13","Ryze",242,0.421,3
+"247","Nagakabouros",242,0.541,1.6
+"979","Dragonguard Lieutenant",242,0.318,2.4
+"758","Malphite",241,0.465,2.4
+"1444","Grasp of the Undying",241,0.29,1.9
+"375","Teenydactyl",240,0.404,2.5
+"203","The Prefect",239,0.51,2.4
+"1192","Brothers' Bond",239,0.444,1.9
+"238","Solitude",238,0.429,2
+"300","Strike Up The Band",238,0.324,2.2
+"781","Ruined Dragonguard",237,0.333,2.4
+"712","Ice Shard",235,0.387,2.3
+"1368","Winter's Breath",233,0.373,1.4
+"536","Burgeoning Sentinel",232,0.405,2.7
+"63","Magical Journey",227,0.348,2.3
+"1139","Nimble Poro",225,0.378,1.2
+"179","Blades of the Fallen",223,0.484,1.8
+"1263","Purify",222,0.414,1.7
+"133","Draconic Bands",219,0.365,2
+"934","Porofly",218,0.385,1.2
+"1386","Avarosan Trapper",216,0.403,1.7
+"411","Blastcone Seedling",215,0.474,2.4
+"764","Blue Sentinel",215,0.4,2.3
+"1028","Jagged Taskmaster",215,0.46,2.2
+"184","Shape of Fear",213,0.413,2.3
+"998","Troll Chant",211,0.545,2.7
+"1377","She Who Wanders",210,0.419,1.7
+"1309","Mushroom Cloud",207,0.435,2.2
+"481","Fallen Rider",206,0.495,2.3
+"1544","Ingvar the Younger",205,0.4,2.4
+"262","Dragon Roost",204,0.387,2
+"783","Kadregrin the Ruined",204,0.275,1.8
+"286","Lord Eldred, Mageseeker Leader",202,0.381,1.8
+"884","The Skies Descend",202,0.272,1.1
+"164","Tempting Prospect",200,0.505,1.4
+"252","Answered Prayer",200,0.515,2.3
+"117","Eye of God",198,0.535,2.3
+"874","Leona",197,0.36,2.8
+"1395","Starlit Seer",195,0.369,2.6
+"598","Shadow Apprentice",194,0.397,2.8
+"1129","Twin Disciplines",193,0.528,2.5
+"196","Trifarian Training Pits",192,0.453,1.7
+"1517","Captain Kalrix",192,0.385,2.5
+"272","Kai'Sa",190,0.363,2.8
+"537","Buhru Sentinel",189,0.423,2.6
+"664","Dunekeeper",189,0.392,2.5
+"39","Fracture",188,0.42,2
+"217","Sneezy Biggledust!",188,0.489,1.9
+"1044","Plunder Poro",187,0.358,1.2
+"185","Utter Devastation",185,0.53,1.1
+"1542","Temple to True Ice",183,0.432,2.3
+"302","Conductor Of The Mists",181,0.376,2.2
+"266","The Winding Light",179,0.486,2
+"1540","Dragon Prince Grinzo",177,0.424,2.1
+"630","Xenotype Researchers",174,0.437,1.7
+"1433","Mark of the Isles",171,0.398,2.3
+"628","Salt Spire",170,0.447,2.9
+"1556","Mageseeker Junior",170,0.465,2.6
+"391","Poro Sled",168,0.351,1.8
+"1164","Navori Bladescout",168,0.357,2.8
+"1476","Beguiling Cobra",167,0.467,2.1
+"1347","Tryndamere",166,0.331,2.2
+"1450","Warden's Prey",166,0.373,2.1
+"67","Living Library",165,0.418,2.3
+"316","Minitee",164,0.415,1.5
+"1358","Entreat",164,0.555,2.2
+"1415","Sinister Poro",164,0.384,1.1
+"263","Celestial Trifecta",163,0.436,1.3
+"290","Protective Broodfather",163,0.362,2.3
+"401","Pokey Stick",162,0.512,2.7
+"406","Quicken",161,0.528,1.3
+"566","Called Shot",161,0.366,1.6
+"760","Chip",160,0.419,3
+"1481","Secret Keeper",159,0.371,2.8
+"881","Lunari Priestess",158,0.437,2.7
+"1204","Captain Farron",156,0.34,1.3
+"831","Homecoming",153,0.608,2.4
+"1133","Fae Bladetwirler",153,0.444,2.7
+"822","Divergent Paths",152,0.428,1.5
+"1092","Ravenous Flock",152,0.566,2.7
+"495","Avatar of the Tides",151,0.331,2.4
+"767","Stonebreaker",151,0.43,2
+"1165","Sparring Student",151,0.444,2.7
+"280","Supercharge",150,0.407,1.3
+"282","Voidling",150,0.407,2.9
+"573","Practical Perfectionist",149,0.383,2.6
+"93","Acoustician",148,0.473,1.3
+"1436","Atrocity",148,0.486,1.7
+"436","Murkwolf Shaman",147,0.34,2.5
+"287","Royal Decree",143,0.42,1.3
+"291","Allure",143,0.385,2.3
+"477","Sion",143,0.497,2.7
+"669","Preservarium",143,0.503,2.3
+"1143","Death Mark",142,0.359,1.8
+"920","Rahvun, Daylight's Spear",141,0.39,2.8
+"1118","Sonic Wave",141,0.369,1.8
+"622","Hibernating Rockbear",140,0.429,2.7
+"798","Wrathful Rider",139,0.453,2.2
+"1240","Vanguard Defender",139,0.381,2.3
+"11","Brutal Skirmish",138,0.457,1.9
+"873","Inviolus Vox",138,0.29,1.6
+"161","Petricite Charger",137,0.453,2.7
+"677","Devoted Council",137,0.314,2.1
+"1365","Alpha Wildclaw",136,0.485,1.6
+"55","The Darkin Staff",135,0.467,1.3
+"1441","Shark Chariot",135,0.385,2.5
+"497","Marai Greatmother",134,0.261,2.5
+"1272","Prismatic Barrier",133,0.338,1.7
+"559","Durand Protege",132,0.485,2.1
+"1335","Plaza Guardian",132,0.53,2.9
+"160","Icathian Myths",131,0.397,2
+"523","Rocket Barrage",128,0.32,1.1
+"700","Vekauran Bruiser",128,0.414,2.3
+"975","Young Witch",127,0.315,2.4
+"698","Emperor's Dais",124,0.379,2.7
+"1116","Barkbeast",124,0.435,2.3
+"1373","Heart of the Fluft",124,0.403,1.7
+"126","Twilit Protector",123,0.439,2.7
+"1180","Shadowshift",123,0.423,2.5
+"422","Treasured Trash",122,0.492,1.9
+"1189","Arachnoid Sentry",121,0.579,2.6
+"307","Ghostly Paramour",120,0.433,1.7
+"86","The Black Flame",119,0.252,2.1
+"439","Shaman's Call",119,0.286,1.8
+"561","Petricite Hound",119,0.462,2.7
+"1343","Sumpworks Map",119,0.454,1.5
+"50","Banana Blaster",118,0.373,2.7
+"440","Hyara Allseer",118,0.331,1.8
+"986","Dragonguard Lookout",118,0.322,1.8
+"1462","Dashing Dandy",118,0.364,1.9
+"1479","Facebreaker",118,0.39,1.7
+"35","Ornn's Forge",116,0.44,1.4
+"360","Heroic Refrain",116,0.379,1.5
+"489","Nami",116,0.388,2.6
+"557","Mountain Drake",115,0.452,2
+"233","Ionian Tellstones",114,0.36,1.6
+"389","Bitsy Lizard",114,0.395,2.1
+"1235","Dawnspeakers",114,0.404,2.3
+"1512","Altar to Unity",114,0.298,2.6
+"526","Catalogue of Regrets",113,0.442,2.2
+"877","Sunblessed Vigor",113,0.363,1.7
+"43","Wrought Colossus",112,0.554,1.3
+"480","For Glory!",111,0.45,2
+"899","Sun Guardian",111,0.414,2.8
+"1103","Unyielding Spirit",111,0.342,1.6
+"372","Spotted Toad",110,0.327,1.8
+"1195","Arena Battlecaster",110,0.373,2
+"1216","Trifarian Hopeful",110,0.455,2.9
+"241","Scavenged Camocloaker",109,0.394,1.3
+"885","Zoe",109,0.514,2.6
+"1435","Splinter Soul",109,0.394,2.9
+"531","Solari Sentinel",108,0.37,2.2
+"147","Camouflaged Horror",107,0.486,2
+"275","Belvethi Elder",107,0.458,2.7
+"894","Astral Protection",107,0.449,2.1
+"1008","Gotcha!",107,0.393,1.3
+"437","Mammoth Shaman",106,0.321,1.6
+"188","Moonlit Glenkeeper",105,0.457,2.6
+"283","Void Blaster",105,0.429,2.8
+"343","Yordle Portal",105,0.495,2.1
+"71","The Spirit of Wuju",104,0.404,2.1
+"226","Gruesome Theater",104,0.519,2.4
+"786","Penitent Squire",104,0.529,2.2
+"1275","Senna, Sentinel of Light",104,0.394,2.2
+"637","Shaped Stone",103,0.553,2.4
+"1449","Darkwater Scourge",103,0.35,2.3
+"951","Stalking Shadows",101,0.366,2.3
+"1178","Rivershaper",101,0.515,2.3
+"119","Seraphic Wyvern",100,0.28,1.9
+"229","Dragon Ambush",100,0.35,2.2
+"942","Iterative Improvement",100,0.43,1.9
+"1543","Snowy Razorclaw",100,0.42,1.6
+"901","Solari Shieldbearer",99,0.343,2.6
+"705","Cold Resistance",98,0.398,2.2
+"696","Rite of Calling",97,0.32,1.9
+"1434","Possession",96,0.406,1
+"1161","Silent Shadowseer",95,0.389,2.2
+"1426","Hapless Aristocrat",92,0.489,2.2
+"1470","The Old Timer",92,0.37,1.4
+"387","Aloof Travelers",91,0.484,2.5
+"499","Justice Rider",91,0.187,2.1
+"45","Adept Weaponsmith",90,0.556,2.3
+"483","Roar of the Slayer",90,0.489,1.6
+"1176","Steel Tempest",90,0.6,2.6
+"1399","Avarosan Sentry",90,0.467,2.6
+"1533","Blimp-Pack Poacher",90,0.333,1.8
+"823","The Howling Abyss",89,0.472,2.4
+"1123","Eye of the Dragon",89,0.596,2.9
+"1383","Bull Elnuk",89,0.337,1.5
+"656","Rite of Dominance",88,0.33,1.5
+"1038","Dreadway Deckhand",87,0.356,2.7
+"1338","Get Excited!",87,0.529,2.3
+"1538","The Swindler's Den",87,0.379,2.2
+"959","Nocturne",85,0.4,2.9
+"1376","Kindly Tavernkeeper",85,0.424,2.4
+"1448","Withering Wail",85,0.435,2.2
+"606","Field Musicians",84,0.631,2.2
+"771","Heavens Aligned",84,0.417,1.7
+"85","Dragoncaller",83,0.349,2.1
+"44","Hearthblood Mender",82,0.659,2.5
+"212","Wings of the Cryophoenix",82,0.427,1.9
+"795","Weapon Hilt",82,0.463,2.2
+"804","Runeweaver",82,0.39,2.5
+"914","Morning Light",82,0.354,2
+"956","Go Hard",82,0.537,2.8
+"1323","Thermogenic Beam",82,0.537,1.7
+"257","Buhru Leader",81,0.457,2.3
+"301","Formal Invitation",81,0.444,2.5
+"1128","Deep Meditation",81,0.642,2.7
+"750","Mask Mother",80,0.375,2.3
+"981","Stony Suppressor",80,0.35,2.4
+"1131","Keeper of Masks",80,0.325,2.3
+"1465","Adroit Artificer",80,0.45,2.4
+"814","The Slaughter Docks",79,0.392,2.2
+"965","Flurry of Fists",79,0.456,1.5
+"1054","Twisted Fate",79,0.532,2.9
+"1067","Scrapshot",79,0.494,2.1
+"1155","Minah Swiftfoot",79,0.304,1.3
+"938","Viktor",78,0.538,2.6
+"653","The Clock Hand",76,0.355,1.4
+"1484","Brazen Buccaneer",76,0.289,2
+"341","Mirror Mage",75,0.267,1.5
+"1102","Grizzled Ranger",75,0.307,2
+"1351","Braum",75,0.413,2.5
+"567","Fallen Feline",74,0.459,2.6
+"772","Ardent Tracker",74,0.473,2.4
+"1130","Yasuo",74,0.554,3
+"62","Skrappy's Partsapalooza",73,0.507,2
+"112","The Darkin Harpoon",73,0.342,1.6
+"479","Fallen Reckoner",73,0.479,2.4
+"996","Trundle",73,0.548,2.5
+"546","We Stand Together",72,0.333,1.6
+"1297","Corina Veraza",72,0.5,2.7
+"216","Cracking Ice",71,0.324,1.6
+"289","Demacian Tellstones",71,0.451,1.4
+"431","Lecturing Yordle",71,0.38,1.9
+"980","Confront",71,0.211,1.3
+"1389","Catalyst of Aeons",71,0.394,2.3
+"1393","Bloodsworn Pledge",71,0.366,1.5
+"473","Lost Soul",70,0.571,2.1
+"1117","Sapling Toss",70,0.429,2.2
+"84","Disciple of Doran",68,0.324,1.9
+"232","Windswept Hillock",68,0.588,2.6
+"329","Stone Stackers",68,0.353,2.3
+"502","Most Wanted",68,0.588,1.9
+"774","Honored Lord",68,0.471,2.3
+"1084","The Tuskraider",68,0.294,1.7
+"134","Generous Gemcrafter",67,0.313,2
+"269","Mikhael's Blessing",67,0.313,1.3
+"494","Tidal Wave",67,0.194,1.7
+"605","Ribbon Dancer",67,0.537,3
+"678","Esteemed Hierophant",67,0.403,2.1
+"897","Solari Sunforger",67,0.358,2
+"1203","Katarina",67,0.522,2.6
+"102","Crowd Pleaser",66,0.348,1.3
+"192","The Gray Apothecary",66,0.424,1.2
+"228","Kinkou's Call",66,0.424,2.2
+"1193","House Spider",66,0.636,2.6
+"166","Zealous Ranger-Knight",65,0.523,2.2
+"593","Irelia",65,0.554,2.9
+"1107","Concerted Strike",65,0.538,1.9
+"1174","The Empyrean",65,0.292,1.7
